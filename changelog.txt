@@ -1,0 +1,7 @@
+Version 1.1 - Codename: Garfield
+--------------------------------
+- Added methods that take primitive types
+
+Version 1.0 - Codename: Peanuts
+-------------------------------
+Initial release
